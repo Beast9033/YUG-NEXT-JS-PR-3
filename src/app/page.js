@@ -154,7 +154,7 @@ const page = () => {
       <nav className='navbar navbar-expand-lg navbar-dark'>
         <div className='container'>
           <a className='navbar-brand fw-bold' href='#'>
-            React<span className='text-warning'>Data</span>Center
+            Next<span className='text-warning'>Data</span>Center
           </a>
           <div className='d-flex ms-auto gap-2'>
             <form className='d-flex' role='search' onSubmit={handleSearch}>
